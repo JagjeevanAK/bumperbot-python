@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/homebrew/Caskroom/miniconda/base/envs/ros2/include/**",
+        "/Users/jagjeevankashid/ros2_ws/src/bumperbot_cpp/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
